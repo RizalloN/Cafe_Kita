@@ -36,4 +36,3 @@ Untuk build Android, gunakan nilai bootstrap milik Anda dan jalankan
 APK tersedia di `build/app/outputs/flutter-apk/app-release.apk`. File Firebase
 harus dikonfigurasi terlebih dahulu. Release proyek masih memakai debug signing;
 siapkan keystore produksi sendiri sebelum distribusi.
-
